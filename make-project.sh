@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 echo Create Project $1
